@@ -1,6 +1,6 @@
 # AWS Security Audit
 
-A small, read-only Python tool that checks an AWS account against key controls from the **CIS AWS Foundations Benchmark v3.0** and produces a Markdown findings report.
+A small, read-only Python tool that checks an AWS account against key controls from the CIS AWS Foundations Benchmark and produces a Markdown findings report.
 
 I built it to audit my own AWS portfolio account (ECS, ALB, EC2, Elastic Beanstalk and S3 workloads) and to practise security automation with Python and boto3.
 
