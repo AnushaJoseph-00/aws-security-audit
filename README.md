@@ -39,6 +39,8 @@ It exits with code `1` if any check fails, so it can be used in a CI pipeline as
 
 Audits are run under a dedicated least-privilege IAM user (`SecurityAudit` policy only, no access keys).
 
+![First scan results](Cloudshell_Output.png)
+
 **First scan:** 3 of 8 checks passed, 5 failed.
 
 | CIS | Finding | Severity |
